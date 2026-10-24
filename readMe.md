@@ -1,0 +1,1 @@
+Solidity Technical Assessment for 10 min
